@@ -1,3 +1,6 @@
+<a href="#" target="_blank">
+  <img src="svg/Truongquangkhang.svg" width="1200" alt="Truongquangkhang-official" />
+</a>
 <!-- Truongquankhang -->
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
